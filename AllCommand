@@ -1,0 +1,28 @@
+1.) initial command ==> goto => nodejs.org(download Lts) after that intall it.
+                            node current version command => (node -v)
+                            npm current version command => (npm -v)
+
+2.) Installing Angular CLI ==> npm install -g @angular/cli
+                           Findout cli Latest Version => (ng version)
+
+3.) First Project create in Angular command ==> {ng new blog (blog is a project name)}.
+4.) Project is open in visual studio editor ==> {code .}
+
+5.) If version is change and download oldest version of angular follow these steps. ==> {npm install -g@angular/cli12 (12 indecate 12 version is download) after that fire => 
+ng new (command)}.
+
+
+6.) Important File and Folder for beginner
+    Answer(Beginner Level) ==> [package.json, node_modules,src folder,app,assets,environments,index.html,main.js,style.css]
+     
+    Answer(Advance Level) ==> [package-lock.json,angular.json,tsconfig files,browserslistrc,karma.config.js,polyfills.ts]  
+     
+     
+     
+     
+     
+     
+
+
+
+                  
