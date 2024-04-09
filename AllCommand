@@ -17,9 +17,11 @@ ng new (command)}.
      
     Answer(Advance Level) ==> [package-lock.json,angular.json,tsconfig files,browserslistrc,karma.config.js,polyfills.ts]  
      
-     
-     
-     
+7.) Interpolation
+ Answer ==>  what => {Display the dynamic data on the html page. like [{{title}}]. }
+        
+8.) Angular Cli & important Commands 
+Answer ==> ng generate component login 
      
      
 
