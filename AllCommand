@@ -21,7 +21,17 @@ ng new (command)}.
  Answer ==>  what => {Display the dynamic data on the html page. like [{{title}}]. }
         
 8.) Angular Cli & important Commands 
-Answer ==> ng generate component login 
+Answer ==> ng generate component login or ng g c login
+moudle generate command ==> ng g m user_auth {module name}.
+If module under create component ==> ng g c user_auth/sign-in {this command use}
+class create command ==> ng g class dummy
+How to make build in Angular using command ==> {ng build} after that command complete make [dist folder/project name {folder}] 
+{invove all code}.
+
+
+
+
+
      
      
 
