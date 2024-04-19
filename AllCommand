@@ -33,12 +33,12 @@ Answer => {component is a block of building and every block is contain of specif
 Inline Css Add Command [ng generate component user-list --inline-style] {css file not add this command}.
 Inline Template Add Command [ng generate component student-list --inline-Template] {html file not add this command}.
 
-
 10.) Module 
 Answer ==> Module is a special feature is contain component, helper, Api Call, Etc;
 
+11.Event.
+12.Style
 
-     
      
 
 
