@@ -39,7 +39,14 @@ Answer ==> Module is a special feature is contain component, helper, Api Call, E
 11.Event.
 12.Style
 
-     
+13.Data Transfer Parent to Child Component And Child to Parent Component.
+14.Two Way Binding. {which time propertis data update this current time display updated data on screen is called two way
+binding.}
+
+15. Template Reference Variable = #task {it is a input element id like as #task is called template ref. variable};
+16.Pipes {data can be format one to another format is called pipes as: currency and uppercase, lowercase}.
+17.
+
 
 
 
