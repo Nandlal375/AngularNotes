@@ -13,8 +13,7 @@ ng new (command)}.
 
 
 6.) Important File and Folder for beginner
-    Answer(Beginner Level) ==> [package.json, node_modules,src folder,app,assets,environments,index.html,main.js,style.css]
-     
+    Answer(Beginner Level) ==> [package.json, node_modules,src folder,app,assets,environments,index.html,main.js,style.css]     
     Answer(Advance Level) ==> [package-lock.json,angular.json,tsconfig files,browserslistrc,karma.config.js,polyfills.ts]  
      
 7.) Interpolation
@@ -45,8 +44,14 @@ binding.}
 
 15. Template Reference Variable = #task {it is a input element id like as #task is called template ref. variable};
 16.Pipes {data can be format one to another format is called pipes as: currency and uppercase, lowercase}.
-17.
 
+
+17. Form In Angular ==> Submit Any kind of Information to database is called form.
+18.Type Of Form in Angular ==> Basically two type form in angular.
+   18.1 => Template-driven form.
+   18.2 => reactive Form.
+
+19. Data Flow In Form => Template -> class -> Service -> Database.
 
 
 
