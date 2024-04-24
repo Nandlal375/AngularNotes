@@ -52,7 +52,10 @@ binding.}
    18.2 => reactive Form.
 
 19. Data Flow In Form => Template -> class -> Service -> Database.
+20. Directive => {Provided the Additional feature of element is called directive *ngIf, *ngFor .............}.
+    Directive command => [ng g directive {Foldername/redEl} => (directive name)].
 
+21. 
 
 
                   
