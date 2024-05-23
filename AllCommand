@@ -3,6 +3,7 @@
                             npm current version command => (npm -v)
 
 2.) Installing Angular CLI ==> npm install -g @angular/cli
+2.1) uninstall angular of wich exist version in windows = npm uninstall -g @angular/cli
                            Findout cli Latest Version => (ng version)
 
 3.) First Project create in Angular command ==> {ng new blog (blog is a project name)}.
