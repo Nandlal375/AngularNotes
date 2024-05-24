@@ -56,7 +56,7 @@ binding.}
 20. Directive => {Provided the Additional feature of element is called directive *ngIf, *ngFor .............}.
     Directive command => [ng g directive {Foldername/redEl} => (directive name)].
 
-21. 
+21. Routing two type => static routing, Dynamic routing.
 
 
                   
