@@ -1,0 +1,13 @@
+
+
+  Code push on Github Account from Visual Studio 2022 All Step ==> 
+  
+     1. => File Name Cursor Then Right Click then go Git Option And then (Commit or Stash).
+	 2.=>  Search File Name Whose Want Push in Github Account And Then Click + plus Icon.
+	 3.=>  Write the comment In Show The Area box.
+	 4.=>  Click The Commit Staged Button.
+	 5.=>  After That Top right cornor show upper side Arrow tooltip text (Push) click this button.
+	 6.=>  After that Circle Shap button click show tooltip text (Sync pull then push).
+	 7.=>  All Complete Step.
+	 
+	 table type in sql server => virtual table, temproray table, 
