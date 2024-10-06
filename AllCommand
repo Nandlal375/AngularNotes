@@ -63,3 +63,7 @@ binding.}
 23. ChildRouting.
 24. Service ==> service is class in angular which contain property, method, and field and this class property shared in the multiple file. 
                   
+25.Model ==> A part of typeScript Its describe the data structure of input element and validate these element.
+26.GroupRouting.
+27.LazyLoading.
+
